@@ -10,4 +10,4 @@
 Currently using free sprite assets for development from the site:
 https://opengameart.org/content/space-shooter-redux
 
-Credits to www.kenney.nl for the sprite.
+Credits to www.kenney.nl for the sprite
