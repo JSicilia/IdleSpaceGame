@@ -98,7 +98,8 @@ public class PlayerMovement : MonoBehaviour {
 
     void TouchInput()
     {
-        if (EventSystem.current.IsPointerOverGameObject())
+        if (EventSystem.current.IsPointerOverGameObject() ||
+            EventSystem.current.currentSelectedGameObject != null)
         {
             return;
         }
